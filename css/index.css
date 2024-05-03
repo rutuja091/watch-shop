@@ -31,9 +31,7 @@
 
 
 /* Black and white theme */
-body {
-  background-color: #000;
-}
+
 
 .carousel-control-prev img, .carousel-control-next img {
   width: 50px; /* Adjust as needed */
@@ -59,7 +57,35 @@ body {
   height: 100px;
   border-radius: 5px;
   margin-bottom: 10px;
+
 }
 .carousel-indicators {
   bottom: -40px;
+}
+
+
+.second-text-container{
+  width:100%;
+  margin:10px auto;
+ 
+  background-color: #fff;
+  justify-content: center;
+  text-align: center;
+  padding:20px;
+ 
+ 
+}
+.second-text-container h4{
+  font-size: 40px;
+
+}
+.card-container{
+  width:100%;
+  margin:10px auto;
+  background-color: #fff;
+  justify-content: center;
+  text-align: center;
+  padding:20px;
+ 
+
 }
